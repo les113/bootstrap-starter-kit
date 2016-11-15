@@ -12,13 +12,13 @@ h1, h2, h3, h4, h4, h5, h6 {
     letter-spacing: 1px;
 }
 
-h1 {font-size: 2.8rem;} // 2.8rem = 28px
-h2 {font-size: 2.4rem; color:$primaryColour;}
-h3 {font-size: 2.0rem; color:$emphasisColour;}
-h4 {font-size: 1.8rem;}
-h5 {font-size: 1.6rem;}
-h6 {font-size: 1.4rem;}
-p, li {font-size: 1.6rem;} 
+h1 {font-size:($font-size-base * 2);} // 2.8rem = 28px
+h2 {font-size:($font-size-base * 1.8); color:$primaryColour;}
+h3 {font-size:($font-size-base * 1.5); color:$emphasisColour;}
+h4 {font-size:($font-size-base * 1.25);}
+h5 {font-size:($font-size-base * 1);}
+h6 {font-size:($font-size-base * 0.85);}
+p, li {font-size: $font-size-base;} 
 
 /* content */
 
