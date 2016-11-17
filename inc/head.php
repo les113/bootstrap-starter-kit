@@ -15,17 +15,6 @@
     <!-- bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	
-	<!-- font awesome -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" >
-
-    <!-- fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Hind:600,300' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/romancaps_regular_macroman/stylesheet.css">
-    <link rel="stylesheet" href="css/webfontkit-20150819-095235/stylesheet.css">
-
-    <!-- stylesheets -->
-    <link rel="stylesheet" href="css/style.css">
 
     <!-- slideshow http://jquery.malsup.com/cycle2/ -->
     <script src="http://malsup.github.com/jquery.cycle2.js"></script>
@@ -53,4 +42,20 @@
 			$().UItoTop({ easingType: 'easeOutQuart' });
 		});
 	</script>
+	
+	<!-- materialize
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>	 
+	<link rel="stylesheet" href="materialize/css/materialize.css"> -->
+	
+	<!-- material icons -->
+	<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	
+	<!-- font awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" >
+
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+    <!-- stylesheets -->
+    <link rel="stylesheet" href="css/style.css">
 

@@ -25,7 +25,21 @@
                 <h6>Heading 6 </h6>
                 <p>Paragraph </p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique id mauris nec porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque aliquam vestibulum nulla in tincidunt. Ut leo diam, molestie a dapibus nec, gravida in tortor. </p>
-            </div>	
+                <blockquote>
+				  This is an example quotation that uses the blockquote tag.
+				</blockquote>
+				
+				<h2>Buttons</h2>
+				<div>
+					<a class="waves-effect waves-light btn">button</a>
+					<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>button</a>
+					<a class="waves-effect waves-light btn"><i class="material-icons right">cloud</i>button</a>
+				</div>
+				</div>
+					<a class="btn-floating btn-large waves-effect waves-light"><i class="material-icons">add</i></a>
+				<div>      		
+  
+			</div>	
         </div>   
     </div><!-- end page container -->   
 

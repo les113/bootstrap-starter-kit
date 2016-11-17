@@ -71,7 +71,7 @@
 		<section>
 			<div class="container">
 				<div class="row">	
-					<div  class="col-md-6">
+					<div  class="col-md-5">
 						<div class="circleImg"></div>
 					</div>	  
 					<div  class="col-md-6">
@@ -92,25 +92,25 @@
 							<div class="">
 								<a href="">
 								<img src="http://placehold.it/260x180" alt=""/>
-								<h3>Image1</h3>
+								<p class="title">Image1</p>
 								</a>
 							</div>
 							<div>
 								<a href="">
 								<img src="http://placehold.it/260x180" alt=""/>
-								<h3>Image2</h3>
+								<p class="title">Image2</p>
 								</a>
 							</div>
 							<div>
 								<a href="">
 								<img src="http://placehold.it/260x180" alt=""/>
-								<h3>Image3</h3>
+								<p class="title">Image3</p>
 								</a>
 							</div>
 							<div>
 								<a href="">
 								<img src="http://placehold.it/260x180" alt=""/>
-								<h3>Image4</h3>
+								<p class="title">Image4</p>
 								</a>
 							</div>
 						</div>

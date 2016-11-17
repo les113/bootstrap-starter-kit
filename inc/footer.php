@@ -14,8 +14,7 @@
             </div>
  		</div> <!-- end container -->
     </div> <!-- end wrapper -->           
-            
-            
+                     
     <div class="wrapPrimary"><!-- footer -->
         <div class="container">  
 			<footer id="footer">
