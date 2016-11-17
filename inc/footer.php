@@ -19,7 +19,7 @@
         <div class="container">  
 			<footer id="footer">
 				<div class="row">                 
-					  <div class="col-md-2">
+					  <div class="col-md-3">
 						<h4>Contact Us</h4>
 							<p>Building<br/>
 							Street<br/>

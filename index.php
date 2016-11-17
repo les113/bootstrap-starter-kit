@@ -33,7 +33,7 @@
 			<div class="bgwrap">
 				<div class="container">
 					<div class="row featured">	
-						<div class="col-sm-4 col-md-3 col-md-offset-1">
+						<div class="col-md-4 col-lg-3 col-lg-offset-1">
 							<div class="featuredBox">
 								<div class="featuredTitle box1">
 									<i class="fa fa-user"></i>
@@ -43,7 +43,7 @@
 								<button class="btn">Learn more<i class="fa fa-caret-right"></i></button>
 							</div>
 						</div>
-						<div class="col-sm-4 col-md-4">
+						<div class="col-md-4 col-lg-4">
 							<div class="featuredBox">
 								<div class="featuredTitle box2">
 									<i class="fa fa-user"></i>
@@ -53,7 +53,7 @@
 								<button class="btn">Learn more<i class="fa fa-caret-right"></i></button>
 							</div>
 						</div>
-						<div class="col-sm-4 col-md-3">
+						<div class="col-md-4 col-lg-3">
 							<div class="featuredBox">
 								<div class="featuredTitle box3">
 									<i class="fa fa-user"></i>
